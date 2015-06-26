@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Simple Translator</string>
+
+    <string name="translate_to">Translate To:</string>
+    <string name="translate_from">Translate From:</string>
+
+    <string name="hi">Hi</string>
+    <string name="taxi">Where can I find a taxi?</string>
+    <string name="cost">How much does this cost?</string>
+    <string name="beer">Lets drink beer!</string>
+    <string name="bathroom">Where is the bathroom?</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="test"></string>
+
+    <string-array name="strArr">
+        <item>English</item>
+        <item>Farsi</item>
+        <item>Spanish</item>
+    </string-array>
+</resources>
